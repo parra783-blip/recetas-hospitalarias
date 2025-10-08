@@ -1,0 +1,7 @@
+Correcciones aplicadas:
+- Eliminado campo Servicio/Especialidad del UI.
+- Especialidad del prescriptor se fija automáticamente desde LISTADO NOMBRES.xlsx y queda solo lectura.
+- Residentes: acceso solo a EM/EH; Especialistas: CE/EM/EH.
+- Campos Edad/Meses ahora solo lectura; se calculan desde Fecha de Nacimiento.
+- Eliminada validación 'servicio no autorizado para especialidad'.
+- PDF actualizado: muestra 'Especialidad' en lugar de 'Servicio/Especialidad'.
